@@ -1,0 +1,2 @@
+rootProject.name='Aplikasi Portal Berita'
+include ':app'
